@@ -44,6 +44,11 @@ div#select_prefix {
     border-color: #ff6200 #bf4b02 #bf4b02 #ff6200;
     width: 172.4px;
 }
+div#select_prefix {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #c72a2a;
+}
 .button.button--link.menuButton:before {
     width: 21px;
     font: normal normal normal 18px/1 "Material Design Icons";
