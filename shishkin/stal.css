@@ -5,7 +5,7 @@ button#selectAnswer:before {
 }
 button#selectAnswer {
     border: 1px solid transparent;
-    border-color: #c72a2a #9c2121 #9c2121 #c72a2a;
+    border-color: #ff6200 #bf4b02 #bf4b02 #ff6200;
 }
 .button.button--icon--preview>.button-text:before, a.button.button--icon--preview>.button-text:before {
 	font-size: large;
@@ -41,7 +41,7 @@ div#select_prefix {
 .button.button--link.menuButton {
     color: #e0e6f0;
 	border: 1px solid transparent;
-    border-color: #c72a2a #9c2121 #9c2121 #c72a2a;
+    border-color: #ff6200 #bf4b02 #bf4b02 #ff6200;
     width: 172.4px;
 }
 .button.button--link.menuButton:before {
