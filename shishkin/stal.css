@@ -5,7 +5,7 @@ button#selectAnswer:before {
 }
 button#selectAnswer {
     border: 1px solid transparent;
-    border-color: #ff6200 #bf4b02 #bf4b02 #ff6200;
+    border-color: #963883 #7e2d6d #7e2d6d #963883;
 }
 .button.button--icon--preview>.button-text:before, a.button.button--icon--preview>.button-text:before {
 	font-size: large;
